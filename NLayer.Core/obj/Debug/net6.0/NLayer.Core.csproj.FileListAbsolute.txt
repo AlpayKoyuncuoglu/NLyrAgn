@@ -1,0 +1,14 @@
+D:\.netPro\NLayerAgain\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+D:\.netPro\NLayerAgain\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+D:\.netPro\NLayerAgain\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+D:\.netPro\NLayerAgain\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
+D:\.netPro\NLayerAgain\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netPro\NLayerAgain\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+D:\.netPro\NLayerAgain\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+D:\.netPro\NLayerAgain\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+D:\.netPro\NLayerAgain\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+D:\.netPro\NLayerAgain\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+D:\.netPro\NLayerAgain\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+D:\.netPro\NLayerAgain\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
+D:\.netPro\NLayerAgain\NLayer.Core\bin\Debug\net6.0\NLayer.Core.runtimeconfig.json
+D:\.netPro\NLayerAgain\NLayer.Core\obj\Debug\net6.0\NLayer.Core.genruntimeconfig.cache

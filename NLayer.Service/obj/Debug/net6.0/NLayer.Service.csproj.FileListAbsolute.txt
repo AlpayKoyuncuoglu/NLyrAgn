@@ -1,0 +1,17 @@
+D:\.netPro\NLayerAgain\NLayer.Service\bin\Debug\net6.0\NLayer.Service.deps.json
+D:\.netPro\NLayerAgain\NLayer.Service\bin\Debug\net6.0\NLayer.Service.dll
+D:\.netPro\NLayerAgain\NLayer.Service\bin\Debug\net6.0\NLayer.Service.pdb
+D:\.netPro\NLayerAgain\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+D:\.netPro\NLayerAgain\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.dll
+D:\.netPro\NLayerAgain\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.pdb
+D:\.netPro\NLayerAgain\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+D:\.netPro\NLayerAgain\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+D:\.netPro\NLayerAgain\NLayer.Service\obj\Debug\net6.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netPro\NLayerAgain\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfoInputs.cache
+D:\.netPro\NLayerAgain\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfo.cs
+D:\.netPro\NLayerAgain\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CoreCompileInputs.cache
+D:\.netPro\NLayerAgain\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete
+D:\.netPro\NLayerAgain\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
+D:\.netPro\NLayerAgain\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
+D:\.netPro\NLayerAgain\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+D:\.netPro\NLayerAgain\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll
