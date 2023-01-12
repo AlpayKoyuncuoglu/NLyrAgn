@@ -18,7 +18,7 @@ namespace NLayer.Core.Repositories
         //yukarıdaki x=>x.id>5 alanının yazılabilmesi için Where içine Expression yazıldı
         //Expression: bir function delegesidir. Delegeler metoda işaret eder.
         //T burada x'e karşılık gelir, bool ise >5 ifadesinden dönen sonuca
-        IQueryable<T> GetAll(Expression<Func<T, bool>> expression);
+        IQueryable<T> GetAll();
         IQueryable<T> Where(Expression<Func<T, bool>> expression);
         Task<bool> AnyAsync(Expression<Func<T, bool>> expression);
         Task AddAsync(T entity);
