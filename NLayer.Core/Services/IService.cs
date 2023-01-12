@@ -13,8 +13,8 @@ namespace NLayer.Core.Services
         Task<IEnumerable<T>> GetAllAsync();//bu satır IService özelinde bazı şeylerin değişebiliceğini göstermek amacıyla IGenericRepository'dekinden farklı hale getirildi
         IQueryable<T> Where(Expression<Func<T, bool>> expression);
         Task<bool> AnyAsync(Expression<Func<T, bool>> expression);
-        Task AddAsync(T entity);
-        Task AddRangeAsync(IEnumerable<T> entities);
+        Task<T> AddAsync(T entity);
+        Task<IEnumerable<T>> AddRangeAsync(IEnumerable<T> entities);
         //SaveChanges kullanılıp veritabanına değişiklikler yansıtılacağı için IGenericRepository'dekinden farklı olarak Update ve Remove Async olarak güncellendi
         Task UpdateAsync(T entity);
         Task RemoveAsync(T entity);

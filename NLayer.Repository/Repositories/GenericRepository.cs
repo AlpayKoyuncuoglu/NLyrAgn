@@ -36,7 +36,7 @@ namespace NLayer.Repository
             return await _dbSet.AnyAsync(expression);
         }
 
-        public IQueryable<T> GetAll(Expression<Func<T, bool>> expression)
+        public IQueryable<T> GetAll()
         {
             //AsNoTracking çekilen dataları memory'e alma. 1000 data çekildi diyelim memory' alınırsa sistemi yavaşlatır 
             return _dbSet.AsNoTracking().AsQueryable();
